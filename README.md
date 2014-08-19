@@ -10,7 +10,7 @@ with chrome://extensions url.
 1. Download The extenstion from git 
 1. Install extension from local repository with chrome://extensions url
 2. Edit In DataDeck by clicking to Link (Edit In DataDeck) 
-3. Then you will be redirected to the dataDeck project 
+3. Then you will be redirected to the dataDeck project at explorer.okfnlabs.org 
 
 
 
