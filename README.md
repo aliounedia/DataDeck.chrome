@@ -30,6 +30,7 @@ To Download type
     git clone https://github.com/okfn/DataDeck.chrome
 
 Builds the zip file for the chrome extension
+
     ./make
 
 
